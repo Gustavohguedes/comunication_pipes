@@ -1,0 +1,5 @@
+Python é uma linguagem de programação amplamente utilizada para diversas aplicações, desde o desenvolvimento de software até a análise de dados.
+
+Muitas pessoas escolhem Python por sua simplicidade e versatilidade. Além disso, Python é altamente recomendada para iniciantes em programação.
+
+Empresas e desenvolvedores ao redor do mundo usam Python para criar aplicações web, automação e inteligência artificial.
