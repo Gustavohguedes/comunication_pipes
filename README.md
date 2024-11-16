@@ -1,6 +1,5 @@
 # comunication_pipes
 
-<<<<<<< HEAD
 # **Contador de Palavras-Chave com Comunicação entre Processos**
 
 Este projeto é um programa em Python que utiliza **pipes** e **processos paralelos** para contar palavras-chave em um arquivo de texto. Além disso, oferece suporte à análise de arquivos com caracteres especiais ou acentos e permite exportar relatórios detalhados nos formatos `.txt` ou `.csv`.
