@@ -4,12 +4,6 @@
 
 Este projeto é um programa em Python que utiliza **pipes** e **processos paralelos** para contar palavras-chave em um arquivo de texto. Além disso, oferece suporte à análise de arquivos com caracteres especiais ou acentos e permite exportar relatórios detalhados nos formatos `.txt` ou `.csv`.
 
-#Integrantes
-- Gustavo Henrique
-- Bruno Vicente
-- Igor Tenorio
-- Franklin Roseveult
-
 ## **Funcionamento**
 
 ### **1. Leitura do Arquivo**
@@ -64,4 +58,7 @@ python contador_palavras.py <nome_do_arquivo> <palavra-chave>
 Autores
 
 Franklin D. Alencar
+Gustavo Henrique
+Bruno Vicente
+Igor Tenorio
 >>>>>>> 52b0a727d4e6194dbb527cf5d39b0a485dbb445c
