@@ -59,8 +59,6 @@ python word_counter.py <nome_do_arquivo> <palavra-chave>
 
 ## **Autores**
 
-## **Autores**
-
 - Franklin D. Alencar
 
 -  Gustavo Henrique
