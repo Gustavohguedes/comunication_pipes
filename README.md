@@ -41,19 +41,23 @@ O relatório pode ser exportado nos formatos `.txt` ou `.csv`, com o nome do arq
 
 ### **Exemplo**
 No terminal, execute:
-python contador_palavras.py texto.txt Python
+```bash
+python word_counter.py texto.txt Python
+```
 
 ### **Exportando um relatorio**
 No Terminal, execute:
-python contador_palavras.py texto.txt Python --exportar txt --saida relatorio.txt
+```bash
+python word_counter.py texto.txt Python --exportar txt --saida relatorio.txt
+```
 
 ### **Comando Básico**
 No terminal, execute:
 ```bash
-python contador_palavras.py <nome_do_arquivo> <palavra-chave>
+python word_counter.py <nome_do_arquivo> <palavra-chave>
+```
 
-
-
+```bash
 =======
 Autores
 
@@ -62,3 +66,4 @@ Gustavo Henrique
 Bruno Vicente
 Igor Freire
 >>>>>>> 52b0a727d4e6194dbb527cf5d39b0a485dbb445c
+=======
