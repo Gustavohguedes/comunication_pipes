@@ -59,10 +59,15 @@ python word_counter.py <nome_do_arquivo> <palavra-chave>
 
 ## **Autores**
 
-Franklin D. Alencar
-Gustavo Henrique
-Bruno Vicente
-Igor Freire
-\`\`\`
+## **Autores**
+
+- Franklin D. Alencar
+
+-  Gustavo Henrique
+
+-  Bruno Vicente
+
+-  Igor Freire
+
 >>>>>>> 52b0a727d4e6194dbb527cf5d39b0a485dbb445c
-\`\`\`
+
